@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hosonokotaro/prettier-format#readme",
   "devDependencies": {
     "prettier": "^2.7.1"
+  },
+  "publishConfig": {
+    "@hosonokotaro:registry": "https://npm.pkg.github.com"
   }
 }
