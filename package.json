@@ -1,0 +1,22 @@
+{
+  "name": "prettier-format",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "code-format": "prettier --write \"./src/**/**.{ts,tsx}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosonokotaro/prettier-format.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosonokotaro/prettier-format/issues"
+  },
+  "homepage": "https://github.com/hosonokotaro/prettier-format#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
