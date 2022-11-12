@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "npm run code-format",
     "code-format": "prettier --write \"./src/**/**.{ts,tsx}\""
   },
   "repository": {
