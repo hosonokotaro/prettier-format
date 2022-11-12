@@ -1,6 +1,6 @@
 # prettier-format
 
-Prettier の setting 共通化ライブラリです。個人用に作成しました。
+Prettier の setting 共通化ライブラリです。個人用に作成しました。設定は[こちら](https://github.com/hosonokotaro/prettier-format/blob/master/index.json)
 
 ## Install
 
