@@ -1,8 +1,8 @@
 {
   "name": "@hosonokotaro/prettier-format",
-  "version": "1.0.0",
+  "version": "0.1.6",
   "description": "",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "npm run code-format",
     "code-format": "prettier --write \"./src/**/**.{ts,tsx}\""
